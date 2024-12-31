@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735593370 source:c:\users\net go\desktop\tp c++\tp1\ex4\ex4\main.cpp
+	<iostream>
+	<cmath>
+
